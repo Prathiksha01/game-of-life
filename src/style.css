@@ -1,0 +1,90 @@
+body{
+  background-color:white;
+  margin:0;
+  padding:0;
+}
+
+.header{
+  background-color:white;
+  width:52vw;
+  text-align:center;
+  clear:both;
+  margin:50px auto auto auto;
+  border-bottom: 1px solid white;
+}
+
+.text1{
+  color:rgb(34, 34, 34);
+  font-family:Sans-serif;
+  font-size: 2.9vw;
+  font-weight:normal;
+}
+
+.text2{
+  color:rgb(34, 34, 34);
+  font-family:Sans-serif;
+  font-size: 1.9vw;
+  font-weight:normal;
+}
+
+
+.text3{
+  color:rgb(34, 34, 34);
+  font-family:Sans-serif;
+  font-size: 1vw;
+  font-weight:normal;
+}
+
+.controls
+{
+  width:52vw;
+  height:2.2vw;
+  margin:2.96vw auto auto auto;
+}
+
+.button{
+  width:8.72vw;
+  background-color:white;
+  color:rgb(34, 34, 34);
+  font-size:1.5vw;
+  border:1px solid rgb(220, 230, 230);
+  padding: auto;
+  margin:0px;
+}
+
+
+.box{
+  width:51.5vw;
+  height:37.2w;
+  background-color:rgb(230, 230, 230);
+  border-bottom:1px solid rgb(34, 34, 34);
+  border-left:2px solid rgb(34, 34, 34);
+  border-right:2px solid rgb(34, 34, 34);
+  margin:13px auto auto auto;
+}
+
+.button-row{
+  width:51.2vw;
+  height:0.73vw;
+  background-color:rgb(230, 230, 230);
+  border-bottom: 0.0042vw solid rgb(34, 34, 34);
+  margin:0px;
+}
+
+.flash{
+  width:0.73vw;
+  height:0.73vw;
+  background-color:transparent;
+  margin:0px;
+  border-left:0.000074px solid rgb(34, 34, 34);
+  float:left;
+}
+
+.back1{
+  background-color:rgb(2, 133, 135);
+  border-bottom:0.000074px solid rgb(34, 34, 34);
+}
+.back0{
+  background-color:transparent;
+  border-bottom:0.000074px solid rgb(34, 34, 34);
+}
