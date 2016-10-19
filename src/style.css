@@ -37,7 +37,7 @@ body{
 
 .controls
 {
-  width:52vw;
+  width:53vw;
   height:2.2vw;
   margin:2.96vw auto auto auto;
 }
@@ -60,7 +60,7 @@ body{
   border-bottom:1px solid rgb(34, 34, 34);
   border-left:2px solid rgb(34, 34, 34);
   border-right:2px solid rgb(34, 34, 34);
-  margin:13px auto auto auto;
+  margin:0px auto auto auto;
 }
 
 .button-row{
