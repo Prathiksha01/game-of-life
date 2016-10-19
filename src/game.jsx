@@ -45,12 +45,12 @@ var Controls = React.createClass({
    return(
      <div className = "controls">
    <ButtonGroup> 
-       <Button className = "button" onClick = {this.props.play}><Glyphicon glyph="play" /></Button>
+       <Button className = "button" onClick = {this.props.play}>Play</Button>
         <Button className = "button" onClick={this.props.pause}>
-     <Glyphicon glyph="pause"  />
+     Pause
      </Button>
      <Button className = "button" onClick={this.props.clear}>
-     <Glyphicon glyph="remove" />
+     Clear
      </Button>
       <Button className = "button">
       Count
